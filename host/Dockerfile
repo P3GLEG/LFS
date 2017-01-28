@@ -1,7 +1,7 @@
-FROM gliderlabs/alpine
+FROM debian
 MAINTAINER K4ch0w
 WORKDIR /lfs
-COPY sources sources/
+COPY check check/
 COPY start.sh start.sh
-RUN apk add --no-cache bash binutils bison bzip2 coreutils diffutils findutils gawk gcc g++ glibc grep gzip m4 make patch perl sed tar texinfo xz
+RUN apt-get update && apt-get install -y   bash bzip2 gawk gcc g++ m4 make patch g++ coreutils diffutils findutils perl sed tar  flex bison  xz-utils texinfo && ln -sf bash /bin/sh
 CMD [ "start.sh ]
