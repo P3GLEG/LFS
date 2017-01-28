@@ -1,0 +1,156 @@
+[submodule "acl"]
+	path = acl
+	url = git://git.savannah.nongnu.org/acl.git
+[submodule "iana-etc"]
+	path = iana-etc
+	url = https://gitorious.org/asac-os/iana-etc.git
+[submodule "attr"]
+	path = attr
+	url = git://git.savannah.nongnu.org/attr.git
+[submodule "autoconf"]
+	path = autoconf
+	url = git://git.sv.gnu.org/autoconf.git
+[submodule "automake"]
+	path = automake
+	url = git://git.savannah.gnu.org/automake.git
+[submodule "bash"]
+	path = bash
+	url = git://git.savannah.gnu.org/bash.git
+[submodule "binutils-gdb"]
+	path = binutils-gdb
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "bison"]
+	path = bison
+	url = git://git.savannah.gnu.org/bison.git
+[submodule "check"]
+	path = check
+	url = https://github.com/libcheck/check.git
+[submodule "coreutils"]
+	path = coreutils
+	url = git://git.savannah.gnu.org/coreutils.git
+[submodule "dbus"]
+	path = dbus
+	url = git://anongit.freedesktop.org/git/dbus/dbus.git
+[submodule "dejagnu"]
+	path = dejagnu
+	url = git://git.savannah.gnu.org/dejagnu.git
+[submodule "diffutils"]
+	path = diffutils
+	url = git://git.savannah.gnu.org/diffutils.git
+[submodule "code_git"]
+	path = code_git
+	url = git://git.code.sf.net/p/expat/code_git.git
+[submodule "file"]
+	path = file
+	url = https://github.com/file/file.git
+[submodule "findutils"]
+	path = findutils
+	url = git://git.savannah.gnu.org/findutils.git
+[submodule "flex"]
+	path = flex
+	url = https://github.com/westes/flex.git
+[submodule "gawk"]
+	path = gawk
+	url = http://git.savannah.gnu.org/cgit/gawk.git
+[submodule "gcc"]
+	path = gcc
+	url = git://gcc.gnu.org/git/gcc.git
+[submodule "gdbm"]
+	path = gdbm
+	url = git://git.savannah.gnu.org/gdbm.git
+[submodule "gettext"]
+	path = gettext
+	url = git://git.savannah.gnu.org/gettext.git
+[submodule "glibc"]
+	path = glibc
+	url = git://sourceware.org/git/glibc.git
+[submodule "gperf"]
+	path = gperf
+	url = git://git.savannah.gnu.org/gperf.git
+[submodule "grep"]
+	path = grep
+	url = git://git.savannah.gnu.org/grep.git
+[submodule "groff"]
+	path = groff
+	url = git://git.savannah.gnu.org/groff.git
+[submodule "grub"]
+	path = grub
+	url = git://git.savannah.gnu.org/grub.git
+[submodule "gzip"]
+	path = gzip
+	url = git://git.savannah.gnu.org/gzip.git
+[submodule "inetutils"]
+	path = inetutils
+	url = git://git.savannah.gnu.org/inetutils.git
+[submodule "iproute2"]
+	path = iproute2
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/shemminger/iproute2.git
+[submodule "kbd"]
+	path = kbd
+	url = http://github.com/legionus/kbd.git
+[submodule "libpipeline"]
+	path = libpipeline
+	url = git://git.savannah.nongnu.org/libpipeline.git
+[submodule "libtool"]
+	path = libtool
+	url = git://git.savannah.gnu.org/libtool.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/torvalds/linux.git
+[submodule "m4"]
+	path = m4
+	url = git://git.savannah.gnu.org/m4.git
+[submodule "make"]
+	path = make
+	url = git://git.savannah.gnu.org/make.git
+[submodule "man-db"]
+	path = man-db
+	url = git://git.savannah.gnu.org/man-db.git
+[submodule "mpc"]
+	path = mpc
+	url = https://scm.gforge.inria.fr/anonscm/git/mpc/mpc.git
+[submodule "patch"]
+	path = patch
+	url = git://git.savannah.gnu.org/patch.git
+[submodule "perl"]
+	path = perl
+	url = https://perl5.git.perl.org/perl.git
+[submodule "pkg-config"]
+	path = pkg-config
+	url = git://anongit.freedesktop.org/pkg-config.git
+[submodule "procps"]
+	path = procps
+	url = https://gitlab.com/procps-ng/procps.git
+[submodule "psmisc"]
+	path = psmisc
+	url = https://gitlab.com/psmisc/psmisc.git
+[submodule "readline"]
+	path = readline
+	url = git://git.savannah.gnu.org/readline.git
+[submodule "sed"]
+	path = sed
+	url = git://git.savannah.gnu.org/sed.git
+[submodule "shadow"]
+	path = shadow
+	url = git://anonscm.debian.org/git/pkg-shadow/shadow.git
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/systemd/systemd.git
+[submodule "tar"]
+	path = tar
+	url = git://git.savannah.gnu.org/tar.git
+[submodule "tcl"]
+	path = tcl
+	url = https://github.com/tcltk/tcl.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/vim/vim.git
+[submodule "XML-Parser"]
+	path = XML-Parser
+	url = https://github.com/chorny/XML-Parser.git
+[submodule "xz"]
+	path = xz
+	url = http://git.tukaani.org/xz.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
